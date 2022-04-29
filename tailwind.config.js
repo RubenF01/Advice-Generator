@@ -15,6 +15,9 @@ module.exports = {
         darkGrayishBlue: "hsl(217, 19%, 24%)",
         darkBlue: "hsl(218, 23%, 16%)",
       },
+      boxShadow: {
+        "3xl": "0 0px 60px -3px hsl(150, 100%, 66%)",
+      },
     },
   },
   plugins: [],
